@@ -1,4 +1,4 @@
-# q-fever-epidemiology-georgia
+# Q Fever Epidemiology in Georgia
 
 This repository contains the Python code used for the epidemiological analyses presented in an IEEE conference publication on Q fever epidemiology in Georgia.
 
